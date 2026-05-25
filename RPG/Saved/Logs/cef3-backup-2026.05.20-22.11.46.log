@@ -1,0 +1,26 @@
+[8656:10656:0520/185343.567:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8656:15252:0520/185343.648:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8656:15252:0520/185343.648:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[8656:10656:0520/185343.705:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5304:9776:0520/185343.872:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8656:5332:0520/185348.652:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5304:9776:0520/185348.888:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[11772:5144:0520/185350.291:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3FF3D78788792D475CA492D2B33531F6 will be ignored
+[17428:11672:0520/185350.519:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-1A0D1B91B31AF73A2CCAB0FCB3F9E7C3 will be ignored
+[8656:1788:0520/185358.661:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5304:9776:0520/185358.900:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8656:5332:0520/185418.666:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5304:9776:0520/185418.907:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8656:1788:0520/191101.000:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5304:9776:0520/191101.000:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8656:5332:0520/191101.013:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[5304:17396:0520/191101.135:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8656:1788:0520/191101.160:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8656:10656:0520/191101.172:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8656:10656:0520/191111.334:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8656:14792:0520/191112.164:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8656:10656:0520/191121.451:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8656:10656:0520/191131.529:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8656:10656:0520/191136.547:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8656:10656:0520/191141.566:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8656:10656:0520/191146.588:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0

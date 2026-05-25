@@ -1,0 +1,13 @@
+[13612:13868:0519/101532.373:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13612:13868:0519/101532.387:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[13612:6348:0519/101532.506:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[13612:13868:0519/101532.570:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17124:2124:0519/101540.111:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-61FAF29D92C59B8E6F97FEEC5B217175 will be ignored
+[13612:4600:0519/101542.566:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[13612:4600:0519/101542.579:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12140:4688:0519/102621.620:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
+[13612:13868:0519/105802.745:ERROR:device_event_log_impl.cc(196)] [10:58:02.404] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[13612:13868:0519/110311.320:ERROR:device_event_log_impl.cc(196)] [11:03:11.079] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[12140:4688:0519/113227.489:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 3
+[13612:4600:0519/115301.861:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[13612:13868:0519/120342.204:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

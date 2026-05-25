@@ -1,0 +1,31 @@
+[4072:11968:0517/171805.829:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4072:9488:0517/171805.921:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4072:11968:0517/171805.981:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13500:6868:0517/171811.946:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CAD761D5941C9AE44DD5D680CFB98733 will be ignored
+[4072:1272:0517/171814.340:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[4072:11968:0517/171816.005:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/171916.653:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172005.990:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172006.037:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172122.021:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172122.021:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172125.494:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172125.494:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172125.494:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.778:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.778:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.779:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.779:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.779:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.779:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.779:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.779:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.779:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.779:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.779:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.779:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.780:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.781:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:10396:0517/172127.784:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:1272:0517/172127.881:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[4072:11968:0517/172127.918:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

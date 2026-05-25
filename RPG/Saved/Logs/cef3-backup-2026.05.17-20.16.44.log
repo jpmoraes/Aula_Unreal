@@ -1,0 +1,26 @@
+[9280:6828:0517/171400.574:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9280:12656:0517/171400.779:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[9280:6828:0517/171400.925:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6280:11196:0517/171409.216:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C59B6F0476C210D92EEBCB90B2063BF9 will be ignored
+[9280:11104:0517/171410.190:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[9280:6828:0517/171410.230:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[9280:6828:0517/171410.231:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[9280:6828:0517/171410.231:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[9280:6828:0517/171410.231:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[9280:11104:0517/171410.324:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[13340:12380:0517/171411.790:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13340:12380:0517/171412.638:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13340:12004:0517/171412.706:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13340:12004:0517/171412.707:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13340:12004:0517/171412.709:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12252:4736:0517/171412.750:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[12252:4736:0517/171412.754:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12252:4736:0517/171412.754:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12252:4736:0517/171412.754:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[13340:12004:0517/171412.754:WARNING:stun_port.cc(442)] Port[1c63400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[13340:12004:0517/171412.755:WARNING:stun_port.cc(442)] Port[2578000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[13340:12004:0517/171412.755:WARNING:stun_port.cc(442)] Port[2578400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[9280:6828:0517/171442.786:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9280:6828:0517/171618.495:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[12704:8848:0517/171623.916:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-81CE903ABF00B9867BFF3D80C4E5F47E will be ignored
+[9280:6828:0517/171644.508:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

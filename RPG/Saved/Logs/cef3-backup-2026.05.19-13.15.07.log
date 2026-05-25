@@ -1,0 +1,10 @@
+[15724:2244:0519/100508.574:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15724:2244:0519/100508.593:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[15724:1340:0519/100508.720:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15724:2244:0519/100508.812:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8028:11852:0519/100518.619:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F6E4584403C0FE47F6454D89F71AEF6D will be ignored
+[15724:9932:0519/100521.311:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15724:9932:0519/100521.323:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10032:4924:0519/101045.681:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 3
+[10032:4924:0519/101331.884:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
+[15724:2244:0519/101507.597:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
